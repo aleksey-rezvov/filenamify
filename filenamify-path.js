@@ -1,4 +1,4 @@
-import path from 'node:path';
+import path from 'path';
 import filenamify from './filenamify.js';
 
 export default function filenamifyPath(filePath, options) {
